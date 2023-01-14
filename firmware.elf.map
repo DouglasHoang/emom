@@ -1,0 +1,863 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                              /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o (memcpy)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o (memset)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+                              /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o (printf)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o) (__sinit)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (_global_impure_ptr)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (_malloc_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (__sread)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o) (_write_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o) (_close_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o) (_fflush_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o) (memmove)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o) (_free_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o) (_read_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+/usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .text          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .data          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .bss           0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .text          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .data          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .bss           0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_macro   0x0000000000000000      0xa6c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .group         0x0000000000000000        0xc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .data          0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .bss           0x0000000000000000        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._open    0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._exit    0x0000000000000000        0x4 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._kill    0x0000000000000000        0x2 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._getpid  0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._link    0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._unlink  0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text._stat    0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text.mkdir    0x0000000000000000        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0xa6c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x4c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1e /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x94 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x3c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x57 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x341 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x43 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x58 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x71 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x12a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x35 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x6a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x52 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x52 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0xd5 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x3d /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x12c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x103 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x460 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x145 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x29 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x28 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0xd9 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000     0x102d /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000      0x11f /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000    0x17fc0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x0000000000000000       0x46 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x28 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x3a /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x294 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x5e /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x10 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000008000000 0x0000000000200000 xr
+sram             0x0000000020000000 0x0000000000030000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+LOAD /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+LOAD /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x0000000020030000                _estack = (ORIGIN (sram) + LENGTH (sram))
+
+.vectors        0x0000000008000000      0x1ac
+ *(.vectors)
+ .vectors       0x0000000008000000      0x1ac /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+                0x0000000008000000                tab
+
+.text           0x00000000080001b0     0x1288
+ *(.text*)
+ .text.gpio_set_mode
+                0x00000000080001b0       0x38 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .text.gpio_set_af
+                0x00000000080001e8       0x30 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .text.SysTick_Handler
+                0x0000000008000218       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+                0x0000000008000218                SysTick_Handler
+ .text.startup.main
+                0x0000000008000228      0x154 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+                0x0000000008000228                main
+ .text._reset   0x000000000800037c       0x50 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+                0x000000000800037c                _reset
+ .text._fstat   0x00000000080003cc       0x12 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x00000000080003cc                _fstat
+ *fill*         0x00000000080003de        0x2 
+ .text._sbrk    0x00000000080003e0       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x00000000080003e0                _sbrk
+ .text._close   0x00000000080003fc        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x00000000080003fc                _close
+ .text._isatty  0x0000000008000402        0x4 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x0000000008000402                _isatty
+ .text._lseek   0x0000000008000406        0x4 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x0000000008000406                _lseek
+ *fill*         0x000000000800040a        0x2 
+ .text._write   0x000000000800040c       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x000000000800040c                _write
+ .text._read    0x0000000008000440        0x6 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                0x0000000008000440                _read
+ .text.memcpy   0x0000000008000446       0x1c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000008000446                memcpy
+ .text.memset   0x0000000008000462       0x10 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                0x0000000008000462                memset
+ *fill*         0x0000000008000472        0x2 
+ .text.printf   0x0000000008000474       0x30 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+                0x0000000008000474                printf
+                0x0000000008000474                iprintf
+ .text.std      0x00000000080004a4       0x48 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000080004ec        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x00000000080004ec                _cleanup_r
+ .text.__sfmoreglue
+                0x00000000080004f8       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x00000000080004f8                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x0000000008000524        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008000524                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000008000530        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008000530                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x000000000800053c        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x000000000800053c                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0000000008000548        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008000548                __sinit_lock_release
+ .text.__sinit  0x0000000008000554       0x70 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008000554                __sinit
+ .text.__sfp    0x00000000080005c4       0x8c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x00000000080005c4                __sfp
+ .text._fwalk_reent
+                0x0000000008000650       0x3e /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+                0x0000000008000650                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x000000000800068e        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x000000000800068e                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008000690        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000008000690                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008000692        0x2 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000008000692                __retarget_lock_release_recursive
+ .text.sbrk_aligned
+                0x0000000008000694       0x40 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x00000000080006d4       0xe8 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000080006d4                _malloc_r
+ .text.__sfputc_r
+                0x00000000080007bc       0x2e /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000080007ea       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000080007ea                __sfputs_r
+ *fill*         0x000000000800080e        0x2 
+ .text._vfprintf_r
+                0x0000000008000810      0x260 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000008000810                _vfiprintf_r
+                0x0000000008000810                _vfprintf_r
+ .text._printf_common
+                0x0000000008000a70       0xda /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008000a70                _printf_common
+ *fill*         0x0000000008000b4a        0x2 
+ .text._printf_i
+                0x0000000008000b4c      0x24c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008000b4c                _printf_i
+ .text._sbrk_r  0x0000000008000d98       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000008000d98                _sbrk_r
+ .text.__sread  0x0000000008000db8       0x22 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000008000db8                __sread
+ .text.__swrite
+                0x0000000008000dda       0x38 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000008000dda                __swrite
+ .text.__sseek  0x0000000008000e12       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000008000e12                __sseek
+ .text.__sclose
+                0x0000000008000e36        0x8 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000008000e36                __sclose
+ *fill*         0x0000000008000e3e        0x2 
+ .text.__swbuf_r
+                0x0000000008000e40       0xa4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+                0x0000000008000e40                __swbuf_r
+ .text._write_r
+                0x0000000008000ee4       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+                0x0000000008000ee4                _write_r
+ .text.__swsetup_r
+                0x0000000008000f08       0xdc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+                0x0000000008000f08                __swsetup_r
+ .text._close_r
+                0x0000000008000fe4       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+                0x0000000008000fe4                _close_r
+ .text.__sflush_r
+                0x0000000008001004      0x10c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+                0x0000000008001004                __sflush_r
+ .text._fflush_r
+                0x0000000008001110       0x78 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+                0x0000000008001110                _fflush_r
+ .text._lseek_r
+                0x0000000008001188       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+                0x0000000008001188                _lseek_r
+ .text.__swhatbuf_r
+                0x00000000080011ac       0x4a /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+                0x00000000080011ac                __swhatbuf_r
+ *fill*         0x00000000080011f6        0x2 
+ .text.__smakebuf_r
+                0x00000000080011f8       0x80 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+                0x00000000080011f8                __smakebuf_r
+ *fill*         0x0000000008001278        0x8 
+ .text          0x0000000008001280       0xa0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+                0x0000000008001280                memchr
+ .text.__malloc_lock
+                0x0000000008001320        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                0x0000000008001320                __malloc_lock
+ .text.__malloc_unlock
+                0x000000000800132c        0xc /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                0x000000000800132c                __malloc_unlock
+ .text._free_r  0x0000000008001338       0x98 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000008001338                _free_r
+ .text._read_r  0x00000000080013d0       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+                0x00000000080013d0                _read_r
+ .text._fstat_r
+                0x00000000080013f4       0x24 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+                0x00000000080013f4                _fstat_r
+ .text._isatty_r
+                0x0000000008001418       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+                0x0000000008001418                _isatty_r
+
+.glue_7         0x0000000008001438        0x0
+ .glue_7        0x0000000008001438        0x0 linker stubs
+
+.glue_7t        0x0000000008001438        0x0
+ .glue_7t       0x0000000008001438        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008001438        0x0
+ .vfp11_veneer  0x0000000008001438        0x0 linker stubs
+
+.v4_bx          0x0000000008001438        0x0
+ .v4_bx         0x0000000008001438        0x0 linker stubs
+
+.iplt           0x0000000008001438        0x0
+ .iplt          0x0000000008001438        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+
+.rodata         0x0000000008001438       0xaf
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x0000000008001438       0x15 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ *fill*         0x000000000800144d        0x3 
+ .rodata.__sf_fake_stderr
+                0x0000000008001450       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008001450                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000008001470       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008001470                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000008001490       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000008001490                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x00000000080014b0        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x00000000080014b0                _global_impure_ptr
+ .rodata._vfprintf_r.str1.1
+                0x00000000080014b4       0x11 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x00000000080014c5       0x22 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+
+.rel.dyn        0x00000000080014e8        0x0
+ .rel.iplt      0x00000000080014e8        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+
+.data           0x0000000020000000       0x64 load address 0x00000000080014e7
+                0x0000000020000000                _sdata = .
+ *(.first_data)
+ *(.data SORT_BY_NAME(.data.*))
+ .data._impure_ptr
+                0x0000000020000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ .data.impure_data
+                0x0000000020000004       0x60 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000020000064                _edata = .
+                0x00000000080014e7                _sidata = LOADADDR (.data)
+
+.igot.plt       0x0000000020000064        0x0 load address 0x000000000800154b
+ .igot.plt      0x0000000020000064        0x0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+
+.bss            0x0000000020000064       0x1c load address 0x000000000800154b
+                0x0000000020000064                _sbss = .
+ *(.bss SORT_BY_NAME(.bss.*) COMMON)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000020000064        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020000064                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000020000065        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020000065                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000020000066        0x1 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020000066                __lock___sinit_recursive_mutex
+ *fill*         0x0000000020000067        0x1 
+ .bss.__malloc_free_list
+                0x0000000020000068        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000068                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x000000002000006c        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000006c                __malloc_sbrk_start
+ .bss.errno     0x0000000020000070        0x4 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                0x0000000020000070                errno
+ .bss.heap.0    0x0000000020000074        0x4 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .bss.on.0      0x0000000020000078        0x1 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ *fill*         0x0000000020000079        0x3 
+ .bss.s_ticks   0x000000002000007c        0x4 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+                0x0000000020000080                _ebss = .
+                0x0000000020000080                . = ALIGN (0x8)
+                0x0000000020000080                _end = .
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x1401
+ .debug_info    0x0000000000000000      0xb1a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_info    0x0000000000000b1a      0x145 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_info    0x0000000000000c5f      0x7a2 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_abbrev   0x0000000000000000      0x63f
+ .debug_abbrev  0x0000000000000000      0x2ae /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_abbrev  0x00000000000002ae       0xfc /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_abbrev  0x00000000000003aa      0x295 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_loc      0x0000000000000000      0x641
+ .debug_loc     0x0000000000000000      0x35a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_loc     0x000000000000035a      0x2e7 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_aranges  0x0000000000000000       0xd8
+ .debug_aranges
+                0x0000000000000000       0x38 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_aranges
+                0x0000000000000038       0x20 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_aranges
+                0x0000000000000058       0x80 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_ranges   0x0000000000000000      0x180
+ .debug_ranges  0x0000000000000000       0xd0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_ranges  0x00000000000000d0       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_ranges  0x00000000000000e0       0xa0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_macro    0x0000000000000000    0x1bd82
+ .debug_macro   0x0000000000000000      0x2ae /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000002ae      0xa6c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000d1a       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000d3c       0x4c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000d88       0x1e /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000da6       0x94 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000e3a       0x3c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000e76      0x103 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000f79       0x3a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000000fb3       0x57 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000100a       0x6a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001074      0x1df /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001253       0x82 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000012d5      0x460 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001735       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001757       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001773       0x97 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000180a      0x341 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001b4b       0x8d /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001bd8       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001be8       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001bfe       0x43 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001c41       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001c75       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001c85       0x58 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001cdd       0x71 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001d4e       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001d6a      0x12a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001e94       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001ea4       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001ec0       0x52 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001f12       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001f34       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001f44       0x52 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000001f96       0xd5 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000206b       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002087       0x3d /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000020c4       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000020da      0x145 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000221f       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002235       0x35 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000226a       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002280       0x29 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000022a9       0x16 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000022bf       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000022cf       0x41 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002310      0x12c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000243c       0x28 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002464       0x1c /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x0000000000002480       0x22 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000024a2       0xd9 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000000257b     0x102d /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000035a8      0x11f /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x00000000000036c7    0x17fc0 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000001b687       0x46 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_macro   0x000000000001b6cd       0x11 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_macro   0x000000000001b6de      0x2b2 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001b990       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001b9c4      0x174 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001bb38       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001bb48       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001bb58       0x35 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001bb8d      0x1e5 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_macro   0x000000000001bd72       0x10 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_line     0x0000000000000000      0xdec
+ .debug_line    0x0000000000000000      0x707 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_line    0x0000000000000707       0x6e /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_line    0x0000000000000775      0x677 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.debug_str      0x0000000000000000    0x986d5
+ .debug_str     0x0000000000000000    0x984fb /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+                                      0x9871d (size before relaxing)
+ .debug_str     0x00000000000984fb       0x55 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+                                       0x2d23 (size before relaxing)
+ .debug_str     0x0000000000098550      0x185 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+                                      0x9861a (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .comment       0x0000000000000049       0x4a /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .ARM.attributes
+                0x0000000000000034       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .ARM.attributes
+                0x0000000000000068       0x34 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .ARM.attributes
+                0x000000000000009c       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000000d0       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000104       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000138       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000016c       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000001a0       0x32 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000001d2       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000206       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000000000000023a       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000000000000026e       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000000000002a2       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000002d6       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000000000000030a       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000000000000033e       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000372       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000003a6       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000000003da       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000000000000040e       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000442       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000476       0x1c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000492       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000004c6       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000000004fa       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000000000000052e       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000562       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000596       0x34 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
+
+.debug_frame    0x0000000000000000      0x9a0
+ .debug_frame   0x0000000000000000       0x74 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccVoa1AM.o
+ .debug_frame   0x0000000000000074       0x20 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccihOs8i.o
+ .debug_frame   0x0000000000000094      0x108 /var/folders/sr/yjjzlz057yqbk83nmlncc3j40000gn/T//ccTipDnw.o
+ .debug_frame   0x000000000000019c       0x28 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000001c4       0x20 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000001e4       0x74 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000258      0x14c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000003a4       0x54 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000003f8       0xb0 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000000004a8       0x4c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000004f4       0xac /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000000000005a0       0x60 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000600       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000000000000062c       0x88 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000006b4       0x40 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000000006f4       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000720       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x000000000000074c       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000778       0x5c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000007d4       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000800       0x58 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000858       0x30 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000888       0x38 /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000000008c0       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000000008ec       0x5c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000948       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000974       0x2c /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-isattyr.o)
